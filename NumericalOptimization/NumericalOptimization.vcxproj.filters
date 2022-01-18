@@ -23,5 +23,8 @@
     <ClInclude Include="BruteOptimize.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ch3_0_intro.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
