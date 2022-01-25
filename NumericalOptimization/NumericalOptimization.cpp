@@ -2,7 +2,7 @@
 //
 
 #include <iostream>
-#include "BruteOptimize.h"
+#include "ch1_0_bruteOptimize.h"
 #include "ch3_0_intro.h"
 #include "ch3_1_steplength.h"
 
