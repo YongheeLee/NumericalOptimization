@@ -142,8 +142,9 @@
     <ClCompile Include="NumericalOptimization.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BruteOptimize.h" />
+    <ClInclude Include="ch1_0_bruteOptimize.h" />
     <ClInclude Include="ch3_0_intro.h" />
+    <ClInclude Include="ch3_1_steplength.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

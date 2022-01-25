@@ -4,12 +4,15 @@
 #include <iostream>
 #include "BruteOptimize.h"
 #include "ch3_0_intro.h"
+#include "ch3_1_steplength.h"
+
 int main()
 {
     double optx1, optx2;
     BruteOptimize::optimize(optx1, optx2);
 
-    double sol = LineSearchIntro::getSolve(-6);
+    double sol1 = LineSearchIntro::getSolve(10);
+    double sol2 = LineSearchStep::getSolve(10);
 
     std::cout << optx1 << "    " << optx2 << "\n";
 }

@@ -20,10 +20,13 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BruteOptimize.h">
+    <ClInclude Include="ch1_0_bruteOptimize.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ch3_0_intro.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ch3_1_steplength.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
